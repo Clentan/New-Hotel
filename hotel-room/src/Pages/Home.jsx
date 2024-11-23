@@ -1,9 +1,10 @@
 import React from 'react'
+import Background from '../component/HomepageComponent/Background'
 
 export default function Home() {
   return (
     <div>
-      <h1>Homepage</h1>
+       <Background/>
     </div>
   )
 }

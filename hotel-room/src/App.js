@@ -1,5 +1,7 @@
 import { Route,Routes,BrowserRouter } from "express";
-import Home from './'
+import Home from './Pages/Home'
+import About from './Pages/About'
+import Contact from './Pages/Contact'
 
 function App() {
   return (
